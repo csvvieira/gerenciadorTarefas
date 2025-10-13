@@ -1,0 +1,13 @@
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\bin\Debug\TarefasPessoais.exe.config
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\bin\Debug\TarefasPessoais.exe
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\bin\Debug\TarefasPessoais.pdb
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.csproj.AssemblyReference.cache
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.Menu.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.MenuTarefa.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.MenuUsuario.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.Properties.Resources.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.csproj.GenerateResource.cache
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.csproj.CoreCompileInputs.cache
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.exe
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.pdb
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.exe.config

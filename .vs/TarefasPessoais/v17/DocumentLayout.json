@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\menutarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\menutarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\menutarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\menutarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\tarefaspessoais\\tarefaspessoais\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\CadastrarUsuario.cs",
+              "RelativeToolTip": "TarefasPessoais\\CadastrarUsuario.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:09:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\CadastrarUsuario.cs [Design]",
+              "RelativeToolTip": "TarefasPessoais\\CadastrarUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:01:16.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuTarefa.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\MenuTarefa.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuTarefa.cs",
+              "RelativeToolTip": "TarefasPessoais\\MenuTarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:54:44.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuTarefa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuTarefa.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\MenuTarefa.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuTarefa.cs [Design]",
+              "RelativeToolTip": "TarefasPessoais\\MenuTarefa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:51:30.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuUsuario.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\MenuUsuario.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuUsuario.cs",
+              "RelativeToolTip": "TarefasPessoais\\MenuUsuario.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:47:21.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\Menu.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\Menu.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\Menu.cs",
+              "RelativeToolTip": "TarefasPessoais\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:02:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuUsuario.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\MenuUsuario.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\MenuUsuario.cs [Design]",
+              "RelativeToolTip": "TarefasPessoais\\MenuUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:41:28.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\Menu.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\Menu.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\TarefasPessoais\\TarefasPessoais\\Menu.cs [Design]",
+              "RelativeToolTip": "TarefasPessoais\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:52:45.973Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
