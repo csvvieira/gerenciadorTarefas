@@ -46,11 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AtualizarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizarUsuario.Designer.cs">
+      <DependentUpon>AtualizarUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="CadastrarUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CadastrarUsuario.Designer.cs">
       <DependentUpon>CadastrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarUsuario.Designer.cs">
+      <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcluirUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirUsuario.Designer.cs">
+      <DependentUpon>ExcluirUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -72,8 +90,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AtualizarUsuario.resx">
+      <DependentUpon>AtualizarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CadastrarUsuario.resx">
       <DependentUpon>CadastrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarUsuario.resx">
+      <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirUsuario.resx">
+      <DependentUpon>ExcluirUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

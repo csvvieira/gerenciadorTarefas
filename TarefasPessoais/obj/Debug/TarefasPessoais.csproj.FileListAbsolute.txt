@@ -11,3 +11,7 @@ C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\Ta
 C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.exe
 C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.pdb
 C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.exe.config
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.AtualizarUsuario.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.CadastrarUsuario.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.ConsultarUsuario.resources
+C:\Users\caio.svieira2\source\repos\TarefasPessoais\TarefasPessoais\obj\Debug\TarefasPessoais.ExcluirUsuario.resources
