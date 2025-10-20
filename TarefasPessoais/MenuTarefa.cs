@@ -19,21 +19,26 @@ namespace TarefasPessoais
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            CadastrarTarefa cadastrarTarefa = new CadastrarTarefa();
+            cadastrarTarefa.ShowDialog();
         }//Botão Cadastrar
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            ConsultarTarefa consultarTarefa = new ConsultarTarefa();
+            consultarTarefa.ShowDialog();
         }//Botão Consultar
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            AtualizarTarefa atualizarTarefa = new AtualizarTarefa();
+            atualizarTarefa.ShowDialog();
         }//Botão Atualizar
 
         private void button4_Click(object sender, EventArgs e)
         {
+            ExcluirTarefa excluirTarefa = new ExcluirTarefa(); 
+            excluirTarefa.ShowDialog();  
 
         }//Botão Excluir
 

@@ -25,8 +25,7 @@ namespace TarefasPessoais
 
         private void button2_Click(object sender, EventArgs e)
         {
-            ConsultarUsuario consultarUsuario = new ConsultarUsuario();
-            consultarUsuario.ShowDialog();
+            
         }//Botão Consultar
 
         private void button3_Click(object sender, EventArgs e)
