@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\daotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\daotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\tarefaspessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\tarefaspessoais\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOTarefa.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\DAOTarefa.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOTarefa.cs",
+              "RelativeToolTip": "TarefasPessoais\\DAOTarefa.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAzwOgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:23:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DAOUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOUsuario.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\DAOUsuario.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOUsuario.cs",
+              "RelativeToolTip": "TarefasPessoais\\DAOUsuario.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAQwKkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:56:59.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginUsuario.cs",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\LoginUsuario.cs",
@@ -50,57 +80,41 @@
               "RelativeToolTip": "TarefasPessoais\\LoginUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:19:44.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T14:19:44.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginUsuario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\LoginUsuario.cs",
               "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\LoginUsuario.cs [Design]",
               "RelativeToolTip": "TarefasPessoais\\LoginUsuario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:19:29.259Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-20T14:19:29.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TelaInicial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\TelaInicial.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\TelaInicial.cs",
               "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\TelaInicial.cs [Design]",
               "RelativeToolTip": "TarefasPessoais\\TelaInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:06:30.844Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-20T14:06:30.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\Program.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\Program.cs",
               "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\Program.cs",
               "RelativeToolTip": "TarefasPessoais\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T13:41:16.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DAOUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOUsuario.cs",
-              "RelativeDocumentMoniker": "TarefasPessoais\\DAOUsuario.cs",
-              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOUsuario.cs",
-              "RelativeToolTip": "TarefasPessoais\\DAOUsuario.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwFMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:56:59.779Z",
               "EditorCaption": ""
             }
           ]

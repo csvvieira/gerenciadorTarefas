@@ -84,6 +84,89 @@ namespace TarefasPessoais
             leitura.Close();
         }//Fim do PreencherVetor
 
+        public string ConsultarTudo()
+        {
+            PreencherVetor();
+            msg = "";
+            for (i = 0; i < contador; i++)
+            {
+                msg += $"\n\nCódigo: {codigo[i]} \nNome: {nome[i]} \nSenha: {senha[i]}";
+            }//Fim do For
+            return msg;
+        }//Fim do ConsultarTudo
 
-    }//Fim da classe
+        public string ConsultarPorCodigo(int codigo)
+        {
+            PreencherVetor();
+            msg = "";
+            for (i = 0; i < contador; i++)
+            {
+                if (this.codigo[i] == codigo)
+                {
+                    msg = $"\n\nCódigo: {this.codigo[i]} \nNome: {nome[i]} \nSenha: {senha[i]}";
+                    return msg;
+                }//Fim do If
+            }//Fim do For
+            return "\n\nCódigo informado não foi encontrado!";
+        }//Fim do ConsultarPorCodigo
+
+        public int ConsultarPorNome(string nome)
+        {
+            PreencherVetor();
+            msg = "";
+            for (i = 0; i < contador; i++)
+            {
+                if (this.nome[i] == nome)
+                {
+                    return codigo[i];
+                }//Fim do If
+            }//Fim do For
+            return -1;
+        }//Fim do ConsultarPorNome
+
+        public int ValidarUsuarioSenha(string nome, string senha)
+        {
+            PreencherVetor();
+            msg = "";
+            for (i = 0; i < contador; i++)
+            {
+                if (this.nome[i] == nome && this.senha[i] == senha)
+                {
+                    this.posicao = i;
+                    return this.posicao + 1;
+                }//Fim do If
+            }//Fim do For
+            return -1;
+        }//Fim do ValidarUsuarioSenha
+
+        public string Atualizar(int codigo, string campo, string novoDado)
+        {
+            try
+            {
+                string query = $"update usuario set {campo} = '{novoDado}' where codigo = '{codigo}'";
+                MySqlCommand sql = new MySqlCommand(query, conexao);
+                string resultado = "" + sql.ExecuteNonQuery();
+                return resultado + " dado atualizado com sucesso!";
+            }//Fim do Try
+            catch (Exception erro)
+            {
+                return $"\nAlgo deu errado!\n\n {erro}";
+            }//Fim do Catch
+        }//Fim do Atualizar
+
+        public string Deletar(int codigo)
+        {
+            try
+            {
+                string query = $"delete from usuario where codigo = '{codigo}'";
+                MySqlCommand sql = new MySqlCommand(query, conexao);
+                string resultado = "" + sql.ExecuteNonQuery();
+                return resultado + " dado excluído!";
+            }//Fim do Try
+            catch (Exception erro)
+            {
+                return $"Algo deu errado\n\n {erro}";
+            }//Fim do Catch
+        }//Fim do Deletar
+    }//Fim da Classe
 }//Fim do Projeto
