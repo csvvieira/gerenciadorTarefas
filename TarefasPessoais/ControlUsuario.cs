@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace TarefasPessoais
 {
@@ -10,80 +11,63 @@ namespace TarefasPessoais
     {
         private DAOUsuario dao;
 
-        public ControlAutor()
+        public ControlUsuario(string nome, string senha)
         {
-            autor = new Autor();
-        }//fim do construtor
-
-        public ControlAutor(string nome, string nacionalidade)
-        {
-            this.dao = new DAOAutor();
-            this.dao.Inserir(nome, nacionalidade);
+            this.dao = new DAOUsuario();
+            this.dao.Inserir(nome, senha);
         }//fim do construtor
 
         public void Imprimir()
         {
-            this.dao = new DAOAutor();
-            Console.WriteLine(this.dao.ConsultarTudoAutor());
+            this.dao = new DAOUsuario();
+            MessageBox.Show(this.dao.ConsultarTudo());
         }//fim do imprimir
 
         //Método para consulta por código
-        public void ConsultarPorCodigoAutor()
+        public void ConsultarPorCodigo()
         {
-            this.dao = new DAOAutor();
+            this.dao = new DAOUsuario();
             //Pedindo para o usuário digitar
-            Console.WriteLine("Informe o código que deseja buscar: ");
             int codigo = Convert.ToInt32(Console.ReadLine());
             //Acionar o método ConsultarPorCodigo da DAO
-            Console.WriteLine(this.dao.ConsultarPorCodigoAutor(codigo));
+            MessageBox.Show(this.dao.ConsultarPorCodigo(codigo));
         }//Fim do método
 
-        public void AtualizarAutor()
+        public void Atualizar()
         {
             //Criar a instância do banco de dados
-            this.dao = new DAOAutor();
-            Console.WriteLine("Escolha o que deseja atualizar: " +
-                              "\n1. Nome" +
-                              "\n2. Nacionalidade");
+            this.dao = new DAOUsuario();
             int escolha = Convert.ToInt32(Console.ReadLine());
             //Pequeno escolha
             switch (escolha)
             {
                 case 1:
-                    Console.WriteLine("\nAtualizar nome");
-                    Console.WriteLine("Informe o código de onde vai atualizar");
                     int codigo = Convert.ToInt32(Console.ReadLine());
                     //Nova descrição
-                    Console.WriteLine("Informe o novo nome: ");
                     string nome = Console.ReadLine();
                     //Atualizar
-                    Console.WriteLine(this.dao.AtualizarAutor(codigo, "nome", nome));
+                    MessageBox.Show(this.dao.Atualizar(codigo, "nome", nome));
                     break;
                 case 2:
-                    Console.WriteLine("\nAtualizar nacionalidade");
-                    Console.WriteLine("Informe o código de onde vai atualizar");
                     int codigo1 = Convert.ToInt32(Console.ReadLine());
                     //Nova descrição
-                    Console.WriteLine("Informe a nova nacionalidade: ");
-                    string nacionalidade = Console.ReadLine();
+                    string senha = Console.ReadLine();
                     //Atualizar
-                    Console.WriteLine(this.dao.AtualizarAutor(codigo1, "nacionalidade", nacionalidade));
+                    MessageBox.Show(this.dao.Atualizar(codigo1, "senha", senha));
                     break;
                 default:
-                    Console.WriteLine("Impossível atualizar, algo deu errado!");
+                    MessageBox.Show("Impossível atualizar, algo deu errado!");
                     break;
             }//Fim do switch
         }//fim do atualizar
 
-        public void ExcluirAutor()
+        public void Excluir()
         {
-            this.dao = new DAOAutor();
-
-            Console.WriteLine("Informe o código que deseja excluir: ");
+            this.dao = new DAOUsuario();
             int codigo = Convert.ToInt32(Console.ReadLine());
 
             //Chama o método para excluir
-            Console.WriteLine(this.dao.DeletarAutor(codigo));
+            MessageBox.Show(this.dao.Deletar(codigo));
         }//Fim do Excluir
     }//Fim da Classe
 }//Fim do Projeto

@@ -12,14 +12,17 @@ namespace TarefasPessoais
 {
     public partial class ExcluirUsuario : Form
     {
+        DAOAutor dao;
         public ExcluirUsuario()
         {
             InitializeComponent();
+            dao = new DAOAutor();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            int codigo = Convert.ToInt32(textBox1.Text);
+            MessageBox.Show(dao.DeletarAutor(codigo));
         }//Botão Excluir
 
         private void button3_Click(object sender, EventArgs e)

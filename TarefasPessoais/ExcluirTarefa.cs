@@ -12,9 +12,11 @@ namespace TarefasPessoais
 {
     public partial class ExcluirTarefa : Form
     {
+        DAOAutor dao;
         public ExcluirTarefa()
         {
             InitializeComponent();
+            dao = new DAOAutor();
         }//Fim do Construtor
 
         private void ExcluirTarefa_Load(object sender, EventArgs e)
@@ -29,7 +31,8 @@ namespace TarefasPessoais
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            int codigo = Convert.ToInt32(textBox1.Text);
+            MessageBox.Show(dao.DeletarAutor(codigo));
         }//Botão Excluir
 
         private void button3_Click(object sender, EventArgs e)

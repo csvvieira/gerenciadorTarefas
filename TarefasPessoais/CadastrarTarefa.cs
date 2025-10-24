@@ -49,7 +49,35 @@ namespace TarefasPessoais
 
         private void button1_Click(object sender, EventArgs e)
         {
+            try
+            {
+                //Coletar os dados
+                int ISBN = Convert.ToInt32(textBox1.Text);
+                string titulo = textBox2.Text;
+                DateTime data = Convert.ToDateTime(textBox3.Text);
+                string editora = textBox4.Text;
+                int codigoCategoria = Convert.ToInt32(textBox5.Text);
 
+                //Cadastrar Banco de Dados
+                ControlLivro controleLivro = new ControlLivro(ISBN, titulo, data, editora, codigoCategoria);
+
+                //Confirmar que foi inserido
+                MessageBox.Show($"Cadastrado com Sucesso!!! \n\nISBN: {ISBN}" +
+                                                            $"\nTítulo: {titulo}" +
+                                                            $"\nData: {data}" +
+                                                            $"\nEditora: {editora}" +
+                                                            $"\nCódigo Categoria {codigoCategoria}");
+
+                textBox1.Text = "";
+                textBox2.Text = "";
+                textBox3.Text = "";
+                textBox4.Text = "";
+                textBox5.Text = "";
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Algo deu errado!! \n\n{ex}");
+            }
         }//Botão Cadastrar
 
         private void button2_Click(object sender, EventArgs e)

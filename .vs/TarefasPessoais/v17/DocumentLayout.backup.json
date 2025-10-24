@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\controlusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\controlusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\daotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\daotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|c:\\users\\caio.svieira2\\source\\repos\\gerenciadortarefas\\tarefaspessoais\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\tarefaspessoais\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F056DAF2-22A7-4035-B1E9-22C891E32423}|TarefasPessoais\\TarefasPessoais.csproj|solutionrelative:tarefaspessoais\\daousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ControlUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\ControlUsuario.cs",
+              "RelativeDocumentMoniker": "TarefasPessoais\\ControlUsuario.cs",
+              "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\ControlUsuario.cs",
+              "RelativeToolTip": "TarefasPessoais\\ControlUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:29:00.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DAOTarefa.cs",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOTarefa.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\DAOTarefa.cs",
               "ToolTip": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOTarefa.cs",
               "RelativeToolTip": "TarefasPessoais\\DAOTarefa.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAzwOgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAwOgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T12:23:41.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DAOUsuario.cs",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\DAOUsuario.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\DAOUsuario.cs",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "TarefasPessoais\\DAOUsuario.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAQwKkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:56:59.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T13:56:59.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginUsuario.cs",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\LoginUsuario.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginUsuario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\LoginUsuario.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\LoginUsuario.cs",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TelaInicial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\TelaInicial.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\TelaInicial.cs",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\caio.svieira2\\source\\repos\\gerenciadorTarefas\\TarefasPessoais\\Program.cs",
               "RelativeDocumentMoniker": "TarefasPessoais\\Program.cs",
@@ -114,8 +130,7 @@
               "RelativeToolTip": "TarefasPessoais\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:41:16.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T13:41:16.301Z"
             }
           ]
         }

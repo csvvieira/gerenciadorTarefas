@@ -77,7 +77,7 @@ namespace TarefasPessoais
                 codigoUsuario[i] = 0;
             }//Fim do For
 
-            MySqlCommand coletar = new MySqlCommand(query, conexao);
+        MySqlCommand coletar = new MySqlCommand(query, conexao);
             MySqlDataReader leitura = coletar.ExecuteReader();
 
             i = 0;
@@ -96,6 +96,11 @@ namespace TarefasPessoais
             }//Fim do While
             leitura.Close();
         }//Fim do PreencherVetor
+
+        public int QuantidadeDeDados()
+        {
+            return contador;
+        }//Fim do método
 
         public string ConsultarTudo()
         {
